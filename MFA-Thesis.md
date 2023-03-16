@@ -1,5 +1,5 @@
-*Any sufficiently advanced technology is indistinguishable from magic.*
-Arthur C. Clarke
+>*Any sufficiently advanced technology is indistinguishable from magic.*
+>Arthur C. Clarke
 
 
 Powerful undead wizards within the lore of Dungeons and Dragons are known as a lich. They are creatures who have overcome the limits of their own mortality through magical and technological means. The process of turning oneself into a lich requires the creation of a powerful artifact known as a phylactery, in which the soon to be Lich stores their distilled essence. This process often takes the majority of their natural life to achieve, as both the knowledge and financial cost to construct such a device is extensive. Upon the creation of this vessel, the lich enters a state of immortal undeath - free to pursue their research and inevitably lose whatever humanity they once had. 
