@@ -17,7 +17,7 @@ Let us first consider aesthetics. Computers are simple processing machines, they
 At the time this was much faster than waiting for the image data to be computer processed. The results were a melding of human and machine, with little relation to its photographic counterpart. In Kirsch’s digitized image, Artificial Aesthetics are far more recognizable. Data itself is the purest form of this aesthetic. We are offered a window into the inner workings of a digital image by visualizing this data. By intervening in the process of these images, such as the Mars image, we can creatively shape their predictable outputs. We’re able to control the intent of the image, deciding how artificial it can be. Datamoshing for example, is a type of intentional manipulation of digital video. More associated with a Glitch Art aesthetic, it takes advantage of image compression artifacting to create its visual style. 
 
 ![https://vimeo.com/201506064](images/i-frame-finland2016.JPG)
->*Signal Loss [forest], 2017 - Shot during my time at Arteles in 2016, simulating memory degradation or signal loss using i-frame manipulation.
+>*Signal Loss [forest], 2017 - Shot during my time at Arteles in 2016, simulating memory degradation or signal loss using i-frame manipulation. https://vimeo.com/201506064
 
 [^1]: Please use these footnotes as a bit of a recurring chat window. Or a resource for terms to search for. 
 [^2]: Urns, rings, wands, dolls, any object or even a family line could be used as a phylactery. 
