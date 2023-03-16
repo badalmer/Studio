@@ -19,6 +19,10 @@ At the time this was much faster than waiting for the image data to be computer 
 ![https://vimeo.com/201506064](images/i-frame-finland2016.JPG)
 >*Signal Loss [forest], 2017 - Shot during my time at Arteles in 2016, simulating memory degradation or signal loss using i-frame manipulation. https://vimeo.com/201506064
 
+By mixing two or more video sources and by manipulating their i-frames[^8], a single video can appear to meld through a form of digital snow[^9] to reveal the other. Glitch aesthetic is based on nothing more than a surprising outcome from a reliable process. In this case datamoshing is attempting to simulate an unintended effect of digital video. Making these aesthetics intentionally more apparent.
+
+Contemporary painting has always seemed to focus on accuracy over intent[^10]. However the human eye and reality itself is subjective. Historically, painting has offered a unique means of representing reality[^11]. With intent not always superseding accuracy. The Hockney-Falco thesis argues Renaissance paintings from the 1500’s onwards were made with the extensive use of lenses as a way of achieving the most accurate images possible. Mostly these are perfect replications of reality[^11]. So perfect in fact that in a few examples clear evidence of photographic imperfections are present. Most notably in the 1523 Lorenzo Lotto painting, “Family Portrait''. We see part of a tablecloth dip in and out of focus. Something the human eye simply cannot do as it focuses on a subject.
+
 [^1]: Please use these footnotes as a bit of a recurring chat window. Or a resource for terms to search for. 
 [^2]: Urns, rings, wands, dolls, any object or even a family line could be used as a phylactery. 
 [^3]: Wizards of the Coast, Inc, editor. Monster Manual. 5th edition, Wizards Of The Coast, 2014. -- states this ritual has a material cost of 120,000 gold pieces. Worth approximately $37,320,000 today. 
@@ -26,3 +30,7 @@ At the time this was much faster than waiting for the image data to be computer 
 [^5]: Image based AI models are fed hundreds or thousands of pre-existing images in order to generate an output.
 [^6]; https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/
 [^7]: Copying of a copy over hundreds of generations
+[^8]: Intermediate Frames
+[^9]: TV snow/noise indicating no signal
+[^10]: Historically anyway.
+[^11]: Van Eyck, Jan. The Arnolfini Wedding. 1434.
