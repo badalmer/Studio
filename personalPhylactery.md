@@ -1,5 +1,5 @@
 ---
-**Personal Phylactery**
+**PERSONAL PHYLACTERY**
 
 Covid-19 has left me with what is most known as “brain fog”. At first, this seemed like a great way for me to justify the many lists and notes I create throughout any given day. I keep a small book entitled “studio notes” to keep track of tasks that I need to complete on that particular day. I realize now that maybe this brain fog was with me all the time. As a child I was diagnosed with ADHD. As a “cure” I was given medication that in simple terms would addict my brain to a certain chemical. The hope was that when I went off this medication my brain would produce what would be considered normal for most people. Prior to this “treatment” I remember being a much different person, I would be prone to emotional breakdowns and extreme mood swings almost every single day. As a result of this medication I cannot remember much of the finer details of my childhood. Time began to feel more linear, I became less concentrated on the days before and more obsessed with the days ahead. My emotions became dulled, things became less of a big deal. I was always curious about the inner workings of the world, but after this point I became much more analytical. 
 
