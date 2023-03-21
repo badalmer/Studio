@@ -3,7 +3,7 @@
 
 These code examples require the use of processing, p5.js or Javascript — the default language of the internet. Thankfully due to some of the initiatives outlined below, getting started with code is pretty easy. Individual mileage may vary, depending on what problem you need to solve. 
 
-<p>**Coding Resources**<br>
+**<p>Coding Resources<br>**
 Processing Reference<br>
 https://processing.org/reference/</p>
 
@@ -14,7 +14,7 @@ https://p5js.org/</p>
 https://www.sublimetext.com/</p>
 
 
-<p>**NFT Platforms**<br>
+**<p>NFT Platforms<br>**
 Art Blocks<br>
 https://www.artblocks.io/</pr>
 
@@ -25,7 +25,7 @@ https://foundation.app/</pr>
 https://opensea.io/</pr>
 
 
-<p>**Tutorials / Project Examples**<br>
+**<p>Tutorials / Project Examples<br>**
 The Coding Train [YouTube Channel]<br>
 https://www.youtube.com/c/TheCodingTrain</p>
 
