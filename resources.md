@@ -4,10 +4,11 @@
 These code examples require the use of processing, p5.js or Javascript — the default language of the internet. Thankfully due to some of the initiatives outlined below, getting started with code is pretty easy. Individual mileage may vary, depending on what problem you need to solve. 
 
 **Coding Resources**
-Processing Reference
-https://processing.org/reference/
 
-<p>P5.js</p>
+<p>Processing Reference<br>
+https://processing.org/reference/</p>
+
+P5.js
 https://p5js.org/
 
 Sublime Text Editor
