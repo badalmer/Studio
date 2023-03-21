@@ -1,4 +1,4 @@
----
+***
 **REFERENCES**
 
 These code examples require the use of processing, p5.js or Javascript — the default language of the internet. Thankfully due to some of the initiatives outlined below, getting started with code is pretty easy. Individual mileage may vary, depending on what problem you need to solve. 
@@ -7,7 +7,7 @@ These code examples require the use of processing, p5.js or Javascript — the d
 Processing Reference
 https://processing.org/reference/
 
-P5.js
+<p>P5.js</p>
 https://p5js.org/
 
 Sublime Text Editor
@@ -41,7 +41,7 @@ https://etherrock.com/
 Generative Gestaltung
 http://generative-gestaltung.de/
 
----
+***
 **BIBLIOGRAPHY**
 
 Anderson, Steve F. “Technologies of Vision.” *Data Visualization*, p. 74.
