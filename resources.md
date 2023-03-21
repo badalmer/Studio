@@ -8,39 +8,39 @@ These code examples require the use of processing, p5.js or Javascript — the d
 <p>Processing Reference<br>
 https://processing.org/reference/</p>
 
-P5.js
-https://p5js.org/
+<p>P5.js<br>
+https://p5js.org/</p>
 
-Sublime Text Editor
-https://www.sublimetext.com/
+<p>Sublime Text Editor<br>
+https://www.sublimetext.com/</p>
 
 
 **NFT Platforms**
-Art Blocks
-https://www.artblocks.io/
+<p>Art Blocks<br>
+https://www.artblocks.io/</pr>
 
-Foundation
-https://foundation.app/
+<p>Foundation<br>
+https://foundation.app/</pr>
 
-openSea
-https://opensea.io/
+<p>openSea<br>
+https://opensea.io/</pr>
 
 
 **Tutorials / Project Examples**
-The Coding Train [YouTube Channel]
-https://www.youtube.com/c/TheCodingTrain
+<p.The Coding Train [YouTube Channel]<br>
+https://www.youtube.com/c/TheCodingTrain</p>
 
-Art Blocks Reference 
-https://github.com/ArtBlocks/artblocks-docs
+<p>Art Blocks Reference<br>
+https://github.com/ArtBlocks/artblocks-docs</p>
 
-Tom Sach Rocket Factory
-https://tomsachsrocketfactory.com/
+<p>Tom Sach Rocket Factory<br>
+https://tomsachsrocketfactory.com/</p>
 
-EtherRocks
-https://etherrock.com/
+<p>EtherRocks<br>
+https://etherrock.com/</p>
 
-Generative Gestaltung
-http://generative-gestaltung.de/
+<p>Generative Gestaltung<br>
+http://generative-gestaltung.de/</p>
 
 ***
 **BIBLIOGRAPHY**
