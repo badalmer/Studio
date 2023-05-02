@@ -1,5 +1,4 @@
-## SOURCERY
-### Brandon A. Dalmer
+# Brandon A. Dalmer: SOURCERY
 
 >*Any sufficiently advanced technology is indistinguishable from magic.*
 >--Arthur C. Clarke[^1]
