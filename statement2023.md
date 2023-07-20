@@ -1,4 +1,4 @@
-> *“There are spells in the world: incantations that can transform reality through the power of procedural utterances”.*[^1]
+> *“There are spells in the world: incantations that can transform reality through the power of procedural utterances”.*([^1])
 
 Digital information can be endlessly copied, transferred and manipulated with little to no material cost and at a faster rate than the analog. What is lost through this process? What effect does the artificial have on our perception over time? As users of digital space, we must have an ongoing ability to decipher the hidden sourcery[^2] guiding our interactions with it. My work seeks to convert the digital medium back to a physical one. Through this action we can begin to humanize these invisible systems. A reclamation of data can be achieved, instilling life to the artificial facsimile.
 
