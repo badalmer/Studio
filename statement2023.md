@@ -1,4 +1,4 @@
-![AS IC AN, 2023](images/as_ic_an_.jpg)
+![AS IC AN, 2023]([images/as_ic_an_.jpg](https://github.com/badalmer/Studio/blob/main/images/as%20ic%20an_.jpg))
 
 > *“There are spells in the world: incantations that can transform reality through the power of procedural utterances”.* [^1]
 
