@@ -57,6 +57,13 @@ I look to image codecs as a source of comparison in my own work. Codecs[^28] are
 
 As machine learning and artificial intelligence become more sophisticated we might be able to more accurately simulate the decisions of the human mind. One thing is then clear- the role of human creativity is essential. It’s not inconceivable to think that automation might fully replace humans as the main forms of cultural production. A future in which food is delivered via star trek-like replicators, or media is written by ChatGPT.[^31] We might begin to see a rise in “humanists” or human-made-tarians: This is to say, individuals that only purchase or consume items created by other humans. In this eventuality, artisans will have a greater role in society, and humanity as a whole may either pursue creativity and self-improvement.[^32] As this new taste for authenticity grows, a majority of us might become expert curators of our own taste.
 
+# READ MORE:
+
+* [SVG_VectorBend](https://github.com/badalmer/SVG_VectorBend)
+  
+* [GenNoise_HEX](https://github.com/badalmer/GenNoise_HEX)
+
+* [Image-2-Text](https://github.com/badalmer/Image-2-Text)
 
 
 [^1]: Please use these footnotes as a bit of a recurring chat window. Or a resource for terms to search for. 
